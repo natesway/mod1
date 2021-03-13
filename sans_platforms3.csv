@@ -2,6 +2,9 @@
 0,HeartTeleport,320,376,,,,,
 0,HeartMode,1,,,,,,
 0,TLPause,,,,,,,
+0,SansHead,Defualt,,,,,,
+0,SansText,Your DETERMINATION...,,,,,,
+0,SansText,Its Gonna Be Your          DOWNFALL,,,,,,,,,
 0,PlatformRepeat,513,346,121,2,120,5,220
 0,PlatformRepeat,-71,306,161,0,120,4,280
 0,SET,Loop,16,,,,,
